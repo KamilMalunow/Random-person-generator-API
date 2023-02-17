@@ -16,7 +16,7 @@ class App extends React.Component {
         if (response.ok) {
           return response
         } else {
-          throw Error(response.status)
+          console.log("Cos poszlo nie tak")
         }
       })
       .then(response => response.json())
