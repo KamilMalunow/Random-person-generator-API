@@ -1,0 +1,16 @@
+.h1 {
+    color: white;
+}
+
+.button {
+    padding: 10px;
+    border: none;
+    background-color: rgb(41, 135, 212);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: rgb(106, 155, 196);
+    transition: 0.3s;
+}

@@ -1,0 +1,15 @@
+html {
+  background-color: #ADD8E6;
+}
+
+.App {
+  max-width: 800px;
+  border: 1px solid black;
+  border-radius: 0.25em;
+  background-color: #00008b;
+  margin: 0 auto;
+  margin-top: 10vh;
+  padding: 10px;
+  text-align: center;
+
+}
